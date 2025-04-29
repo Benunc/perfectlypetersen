@@ -1,4 +1,5 @@
 # Scripts
 remove_scribe_image.sh
 remove_genesis_link.sh
-remove_archives.sh 
+remove_archives.sh
+replace_search.sh 
