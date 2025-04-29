@@ -2,4 +2,11 @@
 remove_scribe_image.sh
 remove_genesis_link.sh
 remove_archives.sh
-replace_search.sh 
+remove_unnecessary_scripts.sh
+remove_wordpress_scripts.sh
+remove_wordpress_scripts_safely.sh
+restore_essential_styles.sh
+remove_contact.sh
+
+# Backup directories
+wordpress_cleanup_backup_*/ 
